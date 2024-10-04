@@ -23,27 +23,21 @@ sites:
     url: https://customer.hoistcam.com
   - name: Gorurhaat 
     url: https://gorurhaat.com
-    
-   # name: IPv6 test
-   # url: forwardemail.net
-   # port: 80
-   # check: "tcp-ping"
-   # ipv6: true
 
 status-website:
-  cname: status.devscode.tech # Custom domain name
-  baseUrl: status.devscode.tech/
-  logoUrl: https://raw.githubusercontent.com/thesagor/navbar/master/digisunnah.png
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  cname: status.devscode.tech
+  # baseUrl: /your-repo-name
+  logoUrl: https://github.com/thesagor/navbar/blob/master/digisunnah.png
   name: DiGiSUnnah
-  introTitle: "This is the open-source uptime monitor and status page, powered entirely by **Sagor Ahmed**."
+  introTitle: "**This is the open-source uptime monitor and status page, powered entirely by Sagor Ahmed."
   introMessage: Welcome to the status page, built specifically for my valued client, Chris Machut. This platform provides real-time monitoring data, pulled directly from our GitHub repository. 
   navbar:
-    - title: Home
+    - title: Status
       href: /
     - title: GitHub
       href: https://github.com/thesagor
-    - title: Contact
-      href: https://www.fiverr.com/users/wordpress_sagor/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
