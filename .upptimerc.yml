@@ -37,8 +37,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://github.com/thesagor/navbar/blob/master/digisunnah.png
   name: DiGiSUnnah
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub with sagor."
-  introMessage: This sample status page provides real-time updates using data from our GitHub repository. It's fully automated with GitHub Actions, Issues, and Pages—no servers required.
+  introTitle: "**This is the open-source uptime monitor and status page, powered entirely by Sagor Ahmed."
+  introMessage:Welcome to the status page, built specifically for my valued client, Chris Machut. This platform provides real-time monitoring data, pulled directly from our GitHub repository. 
   navbar:
     - title: Status
       href: /
