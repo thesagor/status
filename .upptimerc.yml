@@ -3,12 +3,27 @@ owner: thesagor # Your GitHub organization or username, where this repository li
 repo: status # The name of this repository
 
 sites:
+  - name: Thought Leadership
+    url: https://thoughtleadership.biz
   - name: Sitetrax
     url: https://sitetrax.io
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Netarus
+    url: https://netarus.com
+  - name: HoistCam
+    url: https://hoistcam.com
+  - name: Traxa
+    url: https://traxa.io
+  - name: Machut
+    url: https://www.machut.com
+  - name: TrackMyContainer
+    url: https://trackmycontainer.io
+  - name: Sitetrax Customer
+    url: https://customer.sitetrax.io
+  - name: HoistCam Customer
+    url: https://customer.hoistcam.com
+  - name: Gorurhaat 
+    url: https://gorurhaat.com
+    
   - name: IPv6 test
     url: forwardemail.net
     port: 80
@@ -20,15 +35,15 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.devscode.tech
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Sitetrax
+  logoUrl: https://github.com/thesagor/navbar/blob/master/digisunnah.png
+  name: DiGiSUnnah
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub with sagor."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This sample status page provides real-time updates using data from our GitHub repository. It's fully automated with GitHub Actions, Issues, and Pages—no servers required.
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/thesagor
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
