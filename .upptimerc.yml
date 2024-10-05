@@ -31,7 +31,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://github.com/thesagor/navbar/blob/master/digisunnah.png
   name: DiGiSUnnah
-  introTitle: "Welcome"
+  introTitle: "Welcome!"
   introMessage: This site is built specifically for my valued client, Chris Machut.
   navbar:
     - title: Status
