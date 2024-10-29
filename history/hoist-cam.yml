@@ -1,7 +1,7 @@
 url: https://hoistcam.com
-status: up
-code: 200
-responseTime: 1652
-lastUpdated: 2024-10-28T23:13:06.932Z
+status: down
+code: 503
+responseTime: 565
+lastUpdated: 2024-10-29T06:54:23.487Z
 startTime: 2024-10-04T06:04:29.728Z
 generator: Upptime <https://github.com/upptime/upptime>
