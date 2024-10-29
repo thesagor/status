@@ -58,18 +58,20 @@
     "url": "https://hoistcam.com",
     "icon": "https://icons.duckduckgo.com/ip3/hoistcam.com.ico",
     "slug": "hoist-cam",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1034,
-    "timeDay": 1652,
-    "timeWeek": 1399,
-    "timeMonth": 1034,
-    "timeYear": 1034,
-    "dailyMinutesDown": {}
+    "time": 1020,
+    "timeDay": 1109,
+    "timeWeek": 1295,
+    "timeMonth": 1020,
+    "timeYear": 1020,
+    "dailyMinutesDown": {
+      "2024-10-29": 0
+    }
   },
   {
     "name": "Traxa",
@@ -148,18 +150,20 @@
     "url": "https://customer.hoistcam.com",
     "icon": "https://icons.duckduckgo.com/ip3/customer.hoistcam.com.ico",
     "slug": "hoist-cam-customer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 504,
-    "timeDay": 455,
-    "timeWeek": 606,
-    "timeMonth": 504,
-    "timeYear": 504,
-    "dailyMinutesDown": {}
+    "time": 507,
+    "timeDay": 521,
+    "timeWeek": 604,
+    "timeMonth": 507,
+    "timeYear": 507,
+    "dailyMinutesDown": {
+      "2024-10-29": 0
+    }
   },
   {
     "name": "Gorurhaat",
