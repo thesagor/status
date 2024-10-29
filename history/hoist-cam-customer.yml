@@ -1,7 +1,7 @@
 url: https://customer.hoistcam.com
-status: down
-code: 503
-responseTime: 587
-lastUpdated: 2024-10-29T06:54:28.877Z
+status: up
+code: 200
+responseTime: 710
+lastUpdated: 2024-10-29T07:12:29.876Z
 startTime: 2024-10-04T06:04:35.255Z
 generator: Upptime <https://github.com/upptime/upptime>
