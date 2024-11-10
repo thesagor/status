@@ -4,9 +4,9 @@
     "url": "https://thoughtleadership.biz",
     "icon": "https://icons.duckduckgo.com/ip3/thoughtleadership.biz.ico",
     "slug": "thought-leadership",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 368,
     "timeMonth": 280,
     "timeYear": 335,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-10": 0
+    }
   },
   {
     "name": "Sitetrax",
