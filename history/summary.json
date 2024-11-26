@@ -170,9 +170,9 @@
     "url": "https://gorurhaat.com",
     "icon": "https://icons.duckduckgo.com/ip3/gorurhaat.com.ico",
     "slug": "gorurhaat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -181,6 +181,8 @@
     "timeWeek": 307,
     "timeMonth": 354,
     "timeYear": 348,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-26": 0
+    }
   }
 ]
