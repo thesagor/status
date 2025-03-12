@@ -22,19 +22,19 @@
     "url": "https://sitetrax.io",
     "icon": "https://icons.duckduckgo.com/ip3/sitetrax.io.ico",
     "slug": "sitetrax",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 940,
-    "timeDay": 1086,
-    "timeWeek": 1378,
-    "timeMonth": 1283,
+    "timeDay": 993,
+    "timeWeek": 1318,
+    "timeMonth": 1271,
     "timeYear": 940,
     "dailyMinutesDown": {
-      "2025-03-12": 1
+      "2025-03-12": 13
     }
   },
   {
