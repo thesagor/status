@@ -78,19 +78,19 @@
     "url": "https://traxa.io",
     "icon": "https://icons.duckduckgo.com/ip3/traxa.io.ico",
     "slug": "traxa",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 403,
-    "timeDay": 146,
-    "timeWeek": 337,
-    "timeMonth": 418,
-    "timeYear": 403,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 410,
+    "timeDay": 616,
+    "timeWeek": 473,
+    "timeMonth": 454,
+    "timeYear": 410,
     "dailyMinutesDown": {
-      "2025-03-17": 0
+      "2025-03-17": 24
     }
   },
   {
