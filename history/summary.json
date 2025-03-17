@@ -78,18 +78,20 @@
     "url": "https://traxa.io",
     "icon": "https://icons.duckduckgo.com/ip3/traxa.io.ico",
     "slug": "traxa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 404,
-    "timeDay": 110,
-    "timeWeek": 359,
-    "timeMonth": 426,
-    "timeYear": 404,
-    "dailyMinutesDown": {}
+    "time": 403,
+    "timeDay": 146,
+    "timeWeek": 337,
+    "timeMonth": 418,
+    "timeYear": 403,
+    "dailyMinutesDown": {
+      "2025-03-17": 0
+    }
   },
   {
     "name": "Machut",
