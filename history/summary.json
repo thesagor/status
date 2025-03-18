@@ -4,11 +4,11 @@
     "url": "https://thoughtleadership.biz",
     "icon": "https://icons.duckduckgo.com/ip3/thoughtleadership.biz.ico",
     "slug": "thought-leadership",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 311,
     "timeDay": 192,
@@ -16,7 +16,7 @@
     "timeMonth": 364,
     "timeYear": 311,
     "dailyMinutesDown": {
-      "2025-03-18": 12
+      "2025-03-18": 4
     }
   },
   {
@@ -24,11 +24,11 @@
     "url": "https://sitetrax.io",
     "icon": "https://icons.duckduckgo.com/ip3/sitetrax.io.ico",
     "slug": "sitetrax",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 934,
     "timeDay": 611,
@@ -36,7 +36,7 @@
     "timeMonth": 1243,
     "timeYear": 934,
     "dailyMinutesDown": {
-      "2025-03-18": 11
+      "2025-03-18": 4
     }
   },
   {
@@ -44,11 +44,11 @@
     "url": "https://netarus.com",
     "icon": "https://icons.duckduckgo.com/ip3/netarus.com.ico",
     "slug": "netarus",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 287,
     "timeDay": 206,
@@ -56,7 +56,7 @@
     "timeMonth": 323,
     "timeYear": 287,
     "dailyMinutesDown": {
-      "2025-03-18": 11
+      "2025-03-18": 3
     }
   },
   {
@@ -64,11 +64,11 @@
     "url": "https://hoistcam.com",
     "icon": "https://icons.duckduckgo.com/ip3/hoistcam.com.ico",
     "slug": "hoist-cam",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 1089,
     "timeDay": 1688,
@@ -76,7 +76,7 @@
     "timeMonth": 1339,
     "timeYear": 1089,
     "dailyMinutesDown": {
-      "2025-03-18": 10,
+      "2025-03-18": 3,
       "2024-10-29": 18
     }
   },
@@ -85,11 +85,11 @@
     "url": "https://traxa.io",
     "icon": "https://icons.duckduckgo.com/ip3/traxa.io.ico",
     "slug": "traxa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 408,
     "timeDay": 267,
@@ -97,7 +97,7 @@
     "timeMonth": 447,
     "timeYear": 408,
     "dailyMinutesDown": {
-      "2025-03-18": 10,
+      "2025-03-18": 2,
       "2025-03-17": 24
     }
   },
@@ -106,11 +106,11 @@
     "url": "https://www.machut.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.machut.com.ico",
     "slug": "machut",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 392,
     "timeDay": 253,
@@ -118,7 +118,7 @@
     "timeMonth": 407,
     "timeYear": 392,
     "dailyMinutesDown": {
-      "2025-03-18": 9
+      "2025-03-18": 2
     }
   },
   {
@@ -126,11 +126,11 @@
     "url": "https://trackmycontainer.io",
     "icon": "https://icons.duckduckgo.com/ip3/trackmycontainer.io.ico",
     "slug": "track-my-container",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 420,
     "timeDay": 275,
@@ -138,7 +138,7 @@
     "timeMonth": 470,
     "timeYear": 420,
     "dailyMinutesDown": {
-      "2025-03-18": 9
+      "2025-03-18": 1
     }
   },
   {
@@ -146,11 +146,11 @@
     "url": "https://customer.sitetrax.io",
     "icon": "https://icons.duckduckgo.com/ip3/customer.sitetrax.io.ico",
     "slug": "sitetrax-customer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 374,
     "timeDay": 272,
@@ -158,7 +158,7 @@
     "timeMonth": 388,
     "timeYear": 374,
     "dailyMinutesDown": {
-      "2025-03-18": 8
+      "2025-03-18": 1
     }
   },
   {
@@ -166,11 +166,11 @@
     "url": "https://customer.hoistcam.com",
     "icon": "https://icons.duckduckgo.com/ip3/customer.hoistcam.com.ico",
     "slug": "hoist-cam-customer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 665,
     "timeDay": 1050,
@@ -178,7 +178,7 @@
     "timeMonth": 975,
     "timeYear": 665,
     "dailyMinutesDown": {
-      "2025-03-18": 8,
+      "2025-03-18": 0,
       "2024-10-29": 18
     }
   },
