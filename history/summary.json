@@ -4,19 +4,19 @@
     "url": "https://thoughtleadership.biz",
     "icon": "https://icons.duckduckgo.com/ip3/thoughtleadership.biz.ico",
     "slug": "thought-leadership",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.98%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "97.57%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 310,
-    "timeDay": 166,
-    "timeWeek": 183,
-    "timeMonth": 356,
-    "timeYear": 310,
+    "time": 309,
+    "timeDay": 161,
+    "timeWeek": 179,
+    "timeMonth": 349,
+    "timeYear": 309,
     "dailyMinutesDown": {
-      "2025-03-18": 29
+      "2025-03-18": 35
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://sitetrax.io",
     "icon": "https://icons.duckduckgo.com/ip3/sitetrax.io.ico",
     "slug": "sitetrax",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.05%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "97.64%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 933,
-    "timeDay": 649,
-    "timeWeek": 841,
-    "timeMonth": 1227,
-    "timeYear": 933,
+    "time": 935,
+    "timeDay": 773,
+    "timeWeek": 869,
+    "timeMonth": 1224,
+    "timeYear": 935,
     "dailyMinutesDown": {
-      "2025-03-18": 28
+      "2025-03-18": 34
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://netarus.com",
     "icon": "https://icons.duckduckgo.com/ip3/netarus.com.ico",
     "slug": "netarus",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.12%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "97.70%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 286,
-    "timeDay": 176,
-    "timeWeek": 224,
-    "timeMonth": 317,
-    "timeYear": 286,
+    "time": 285,
+    "timeDay": 169,
+    "timeWeek": 216,
+    "timeMonth": 311,
+    "timeYear": 285,
     "dailyMinutesDown": {
-      "2025-03-18": 27
+      "2025-03-18": 33
     }
   },
   {
@@ -66,9 +66,9 @@
     "slug": "hoist-cam",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.13%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 1132,
     "timeDay": 3223,
@@ -76,7 +76,7 @@
     "timeMonth": 1553,
     "timeYear": 1132,
     "dailyMinutesDown": {
-      "2025-03-18": 27,
+      "2025-03-18": 19,
       "2024-10-29": 18
     }
   },
