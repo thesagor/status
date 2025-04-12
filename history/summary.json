@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 315,
-    "timeDay": 109,
-    "timeWeek": 300,
-    "timeMonth": 306,
-    "timeYear": 315,
+    "time": 314,
+    "timeDay": 146,
+    "timeWeek": 301,
+    "timeMonth": 307,
+    "timeYear": 314,
     "dailyMinutesDown": {
       "2025-03-18": 35
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 971,
-    "timeDay": 907,
-    "timeWeek": 1150,
-    "timeMonth": 1111,
-    "timeYear": 971,
+    "time": 968,
+    "timeDay": 269,
+    "timeWeek": 987,
+    "timeMonth": 1089,
+    "timeYear": 968,
     "dailyMinutesDown": {
       "2025-03-18": 34
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 290,
-    "timeDay": 160,
-    "timeWeek": 301,
-    "timeMonth": 291,
-    "timeYear": 290,
+    "time": 289,
+    "timeDay": 156,
+    "timeWeek": 290,
+    "timeMonth": 290,
+    "timeYear": 289,
     "dailyMinutesDown": {
       "2025-03-18": 18
     }
@@ -66,15 +66,15 @@
     "slug": "hoist-cam",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "98.42%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.96%",
-    "time": 1153,
-    "timeDay": 1425,
-    "timeWeek": 1522,
-    "timeMonth": 1479,
-    "timeYear": 1153,
+    "time": 1164,
+    "timeDay": 3297,
+    "timeWeek": 1668,
+    "timeMonth": 1531,
+    "timeYear": 1164,
     "dailyMinutesDown": {
       "2025-04-10": 23,
       "2025-03-20": 28,
@@ -94,11 +94,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
-    "time": 406,
-    "timeDay": 318,
-    "timeWeek": 461,
-    "timeMonth": 398,
-    "timeYear": 406,
+    "time": 405,
+    "timeDay": 251,
+    "timeWeek": 446,
+    "timeMonth": 396,
+    "timeYear": 405,
     "dailyMinutesDown": {
       "2025-03-18": 18,
       "2025-03-17": 24
@@ -115,11 +115,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 394,
-    "timeDay": 238,
+    "time": 393,
+    "timeDay": 218,
     "timeWeek": 364,
-    "timeMonth": 376,
-    "timeYear": 394,
+    "timeMonth": 378,
+    "timeYear": 393,
     "dailyMinutesDown": {
       "2025-03-18": 18
     }
@@ -135,11 +135,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 425,
-    "timeDay": 256,
-    "timeWeek": 395,
-    "timeMonth": 467,
-    "timeYear": 425,
+    "time": 423,
+    "timeDay": 166,
+    "timeWeek": 388,
+    "timeMonth": 463,
+    "timeYear": 423,
     "dailyMinutesDown": {
       "2025-03-18": 17
     }
@@ -155,11 +155,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 370,
-    "timeDay": 252,
-    "timeWeek": 290,
-    "timeMonth": 328,
-    "timeYear": 370,
+    "time": 369,
+    "timeDay": 157,
+    "timeWeek": 289,
+    "timeMonth": 325,
+    "timeYear": 369,
     "dailyMinutesDown": {
       "2025-03-18": 17
     }
@@ -175,11 +175,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 714,
-    "timeDay": 1153,
-    "timeWeek": 1085,
-    "timeMonth": 987,
-    "timeYear": 714,
+    "time": 719,
+    "timeDay": 1666,
+    "timeWeek": 1124,
+    "timeMonth": 1016,
+    "timeYear": 719,
     "dailyMinutesDown": {
       "2025-03-18": 16,
       "2024-10-29": 18
@@ -197,9 +197,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 332,
-    "timeDay": 365,
-    "timeWeek": 321,
-    "timeMonth": 292,
+    "timeDay": 335,
+    "timeWeek": 327,
+    "timeMonth": 295,
     "timeYear": 332,
     "dailyMinutesDown": {
       "2024-12-17": 29,
