@@ -171,9 +171,9 @@
     "url": "https://customer.hoistcam.com",
     "icon": "https://icons.duckduckgo.com/ip3/customer.hoistcam.com.ico",
     "slug": "hoist-cam-customer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -183,6 +183,7 @@
     "timeMonth": 743,
     "timeYear": 814,
     "dailyMinutesDown": {
+      "2025-09-17": 0,
       "2025-03-18": 16,
       "2024-10-29": 18
     }
@@ -193,11 +194,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/gorurhaat.com.ico",
     "slug": "gorurhaat",
     "status": "up",
-    "uptime": "97.08%",
+    "uptime": "97.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.78%",
-    "uptimeYear": "97.08%",
+    "uptimeYear": "97.09%",
     "time": 536,
     "timeDay": 246,
     "timeWeek": 274,
