@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 352,
-    "timeDay": 115,
-    "timeWeek": 395,
-    "timeMonth": 315,
-    "timeYear": 353,
+    "timeDay": 552,
+    "timeWeek": 345,
+    "timeMonth": 329,
+    "timeYear": 354,
     "dailyMinutesDown": {
       "2025-03-18": 35
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1072,
-    "timeDay": 991,
-    "timeWeek": 1120,
-    "timeMonth": 1205,
-    "timeYear": 1093,
+    "time": 1073,
+    "timeDay": 1562,
+    "timeWeek": 1140,
+    "timeMonth": 1202,
+    "timeYear": 1094,
     "dailyMinutesDown": {
       "2025-03-18": 34
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 311,
-    "timeDay": 132,
-    "timeWeek": 302,
-    "timeMonth": 278,
-    "timeYear": 314,
+    "time": 312,
+    "timeDay": 493,
+    "timeWeek": 298,
+    "timeMonth": 288,
+    "timeYear": 315,
     "dailyMinutesDown": {
       "2025-07-18": 17,
       "2025-03-18": 18
@@ -71,18 +71,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1083,
-    "timeDay": 359,
-    "timeWeek": 477,
-    "timeMonth": 480,
-    "timeYear": 1089,
+    "time": 1082,
+    "timeDay": 442,
+    "timeWeek": 474,
+    "timeMonth": 486,
+    "timeYear": 1086,
     "dailyMinutesDown": {
       "2025-08-08": 25,
       "2025-04-10": 23,
       "2025-03-20": 28,
       "2025-03-19": 27,
-      "2025-03-18": 19,
-      "2024-10-29": 18
+      "2025-03-18": 19
     }
   },
   {
@@ -96,11 +95,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 429,
-    "timeDay": 123,
-    "timeWeek": 372,
-    "timeMonth": 438,
-    "timeYear": 434,
+    "time": 430,
+    "timeDay": 760,
+    "timeWeek": 391,
+    "timeMonth": 457,
+    "timeYear": 435,
     "dailyMinutesDown": {
       "2025-03-18": 18,
       "2025-03-17": 24
@@ -117,11 +116,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 402,
-    "timeDay": 264,
+    "time": 403,
+    "timeDay": 585,
     "timeWeek": 399,
-    "timeMonth": 376,
-    "timeYear": 400,
+    "timeMonth": 386,
+    "timeYear": 401,
     "dailyMinutesDown": {
       "2025-03-18": 18
     }
@@ -137,11 +136,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 466,
-    "timeDay": 77,
-    "timeWeek": 552,
-    "timeMonth": 411,
-    "timeYear": 464,
+    "time": 467,
+    "timeDay": 597,
+    "timeWeek": 381,
+    "timeMonth": 426,
+    "timeYear": 465,
     "dailyMinutesDown": {
       "2025-03-18": 17
     }
@@ -157,11 +156,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 441,
-    "timeDay": 545,
-    "timeWeek": 916,
-    "timeMonth": 853,
-    "timeYear": 441,
+    "time": 444,
+    "timeDay": 1273,
+    "timeWeek": 936,
+    "timeMonth": 893,
+    "timeYear": 444,
     "dailyMinutesDown": {
       "2025-03-18": 17
     }
@@ -177,14 +176,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 791,
-    "timeDay": 639,
-    "timeWeek": 761,
-    "timeMonth": 546,
-    "timeYear": 816,
+    "time": 792,
+    "timeDay": 911,
+    "timeWeek": 764,
+    "timeMonth": 558,
+    "timeYear": 817,
     "dailyMinutesDown": {
-      "2025-03-18": 16,
-      "2024-10-29": 18
+      "2025-03-18": 16
     }
   },
   {
@@ -193,18 +191,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/gorurhaat.com.ico",
     "slug": "gorurhaat",
     "status": "up",
-    "uptime": "97.35%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.63%",
+    "uptime": "97.36%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.68%",
     "uptimeYear": "97.18%",
-    "time": 490,
-    "timeDay": 285,
-    "timeWeek": 330,
-    "timeMonth": 277,
+    "time": 489,
+    "timeDay": 270,
+    "timeWeek": 324,
+    "timeMonth": 278,
     "timeYear": 500,
     "dailyMinutesDown": {
-      "2025-10-28": 8,
       "2025-10-23": 22,
       "2025-10-20": 18,
       "2025-10-15": 17,
