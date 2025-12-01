@@ -13,7 +13,7 @@
     "time": 353,
     "timeDay": 318,
     "timeWeek": 510,
-    "timeMonth": 352,
+    "timeMonth": 357,
     "timeYear": 356,
     "dailyMinutesDown": {
       "2025-11-08": 16,
@@ -34,7 +34,7 @@
     "time": 1088,
     "timeDay": 1595,
     "timeWeek": 1433,
-    "timeMonth": 1286,
+    "timeMonth": 1272,
     "timeYear": 1124,
     "dailyMinutesDown": {
       "2025-11-08": 15,
@@ -100,7 +100,7 @@
     "time": 428,
     "timeDay": 509,
     "timeWeek": 388,
-    "timeMonth": 391,
+    "timeMonth": 394,
     "timeYear": 433,
     "dailyMinutesDown": {
       "2025-03-18": 18,
@@ -121,7 +121,7 @@
     "time": 404,
     "timeDay": 395,
     "timeWeek": 406,
-    "timeMonth": 404,
+    "timeMonth": 408,
     "timeYear": 402,
     "dailyMinutesDown": {
       "2025-03-18": 18
@@ -141,7 +141,7 @@
     "time": 465,
     "timeDay": 487,
     "timeWeek": 475,
-    "timeMonth": 437,
+    "timeMonth": 442,
     "timeYear": 464,
     "dailyMinutesDown": {
       "2025-03-18": 17
@@ -161,7 +161,7 @@
     "time": 486,
     "timeDay": 962,
     "timeWeek": 990,
-    "timeMonth": 969,
+    "timeMonth": 974,
     "timeYear": 500,
     "dailyMinutesDown": {
       "2025-03-18": 17
@@ -181,7 +181,7 @@
     "time": 774,
     "timeDay": 350,
     "timeWeek": 377,
-    "timeMonth": 545,
+    "timeMonth": 540,
     "timeYear": 817,
     "dailyMinutesDown": {
       "2025-03-18": 16
@@ -194,17 +194,17 @@
     "slug": "gorurhaat",
     "status": "up",
     "uptime": "97.43%",
-    "uptimeDay": "94.99%",
-    "uptimeWeek": "96.01%",
-    "uptimeMonth": "98.19%",
-    "uptimeYear": "97.12%",
+    "uptimeDay": "95.54%",
+    "uptimeWeek": "96.09%",
+    "uptimeMonth": "98.27%",
+    "uptimeYear": "97.13%",
     "time": 763,
     "timeDay": 1066,
     "timeWeek": 2641,
-    "timeMonth": 1764,
+    "timeMonth": 1826,
     "timeYear": 815,
     "dailyMinutesDown": {
-      "2025-11-30": 72,
+      "2025-11-30": 64,
       "2025-11-29": 104,
       "2025-11-28": 38,
       "2025-11-27": 78,
