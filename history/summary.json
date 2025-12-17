@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 364,
-    "timeDay": 241,
-    "timeWeek": 306,
-    "timeMonth": 554,
-    "timeYear": 369,
+    "time": 365,
+    "timeDay": 533,
+    "timeWeek": 348,
+    "timeMonth": 569,
+    "timeYear": 371,
     "dailyMinutesDown": {
       "2025-11-08": 16,
       "2025-03-18": 35
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1095,
-    "timeDay": 1264,
-    "timeWeek": 999,
-    "timeMonth": 1393,
-    "timeYear": 1134,
+    "time": 1094,
+    "timeDay": 752,
+    "timeWeek": 1055,
+    "timeMonth": 1388,
+    "timeYear": 1132,
     "dailyMinutesDown": {
       "2025-11-08": 15,
       "2025-03-18": 34
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 312,
-    "timeDay": 196,
-    "timeWeek": 285,
-    "timeMonth": 320,
-    "timeYear": 315,
+    "time": 313,
+    "timeDay": 520,
+    "timeWeek": 331,
+    "timeMonth": 332,
+    "timeYear": 316,
     "dailyMinutesDown": {
       "2025-07-18": 17,
       "2025-03-18": 18
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1020,
-    "timeDay": 400,
-    "timeWeek": 437,
+    "time": 1018,
+    "timeDay": 389,
+    "timeWeek": 414,
     "timeMonth": 518,
-    "timeYear": 1017,
+    "timeYear": 1015,
     "dailyMinutesDown": {
       "2025-08-08": 25,
       "2025-04-10": 23,
@@ -98,10 +98,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 430,
-    "timeDay": 354,
-    "timeWeek": 458,
-    "timeMonth": 451,
-    "timeYear": 434,
+    "timeDay": 655,
+    "timeWeek": 501,
+    "timeMonth": 467,
+    "timeYear": 435,
     "dailyMinutesDown": {
       "2025-03-18": 18,
       "2025-03-17": 24
@@ -118,11 +118,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 404,
-    "timeDay": 306,
-    "timeWeek": 408,
-    "timeMonth": 424,
-    "timeYear": 400,
+    "time": 405,
+    "timeDay": 612,
+    "timeWeek": 442,
+    "timeMonth": 435,
+    "timeYear": 401,
     "dailyMinutesDown": {
       "2025-03-18": 18
     }
@@ -138,11 +138,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 466,
-    "timeDay": 695,
-    "timeWeek": 470,
-    "timeMonth": 482,
-    "timeYear": 466,
+    "time": 467,
+    "timeDay": 748,
+    "timeWeek": 515,
+    "timeMonth": 499,
+    "timeYear": 468,
     "dailyMinutesDown": {
       "2025-03-18": 17
     }
@@ -158,11 +158,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 506,
-    "timeDay": 1017,
-    "timeWeek": 1026,
-    "timeMonth": 1045,
-    "timeYear": 525,
+    "time": 508,
+    "timeDay": 1394,
+    "timeWeek": 1124,
+    "timeMonth": 1065,
+    "timeYear": 529,
     "dailyMinutesDown": {
       "2025-03-18": 17
     }
@@ -179,10 +179,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 775,
-    "timeDay": 814,
-    "timeWeek": 746,
-    "timeMonth": 645,
-    "timeYear": 810,
+    "timeDay": 770,
+    "timeWeek": 812,
+    "timeMonth": 646,
+    "timeYear": 811,
     "dailyMinutesDown": {
       "2025-03-18": 16
     }
@@ -193,18 +193,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gorurhaat.com.ico",
     "slug": "gorurhaat",
     "status": "down",
-    "uptime": "95.43%",
+    "uptime": "95.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "68.50%",
-    "uptimeYear": "94.62%",
-    "time": 749,
-    "timeDay": 97,
+    "uptimeMonth": "65.37%",
+    "uptimeYear": "94.35%",
+    "time": 748,
+    "timeDay": 91,
     "timeWeek": 108,
-    "timeMonth": 1871,
-    "timeYear": 804,
+    "timeMonth": 1976,
+    "timeYear": 803,
     "dailyMinutesDown": {
-      "2025-12-16": 115,
+      "2025-12-17": 110,
+      "2025-12-16": 1440,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
       "2025-12-13": 1440,
@@ -257,8 +258,7 @@
       "2025-07-07": 1440,
       "2025-07-06": 1440,
       "2025-07-05": 1440,
-      "2025-07-04": 675,
-      "2024-12-17": 29
+      "2025-07-04": 675
     }
   }
 ]
