@@ -1,7 +1,7 @@
 url: https://traxa.io
-status: up
-code: 200
-responseTime: 376
-lastUpdated: 2026-03-13T23:24:07.377Z
+status: down
+code: 502
+responseTime: 242
+lastUpdated: 2026-03-14T16:34:28.282Z
 startTime: 2024-10-04T06:04:30.582Z
 generator: Upptime <https://github.com/upptime/upptime>
