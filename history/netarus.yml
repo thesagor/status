@@ -1,7 +1,7 @@
 url: https://netarus.com
-status: up
-code: 200
-responseTime: 454
-lastUpdated: 2026-04-28T23:51:53.273Z
+status: down
+code: 502
+responseTime: 116
+lastUpdated: 2026-04-29T08:34:45.041Z
 startTime: 2024-10-04T06:04:29.323Z
 generator: Upptime <https://github.com/upptime/upptime>
