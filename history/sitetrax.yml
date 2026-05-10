@@ -1,7 +1,7 @@
 url: https://sitetrax.io
-status: up
-code: 200
-responseTime: 243
-lastUpdated: 2026-05-09T23:42:35.233Z
+status: down
+code: 504
+responseTime: 10470
+lastUpdated: 2026-05-10T23:02:05.780Z
 startTime: 2024-10-04T05:39:58.305Z
 generator: Upptime <https://github.com/upptime/upptime>
