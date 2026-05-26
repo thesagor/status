@@ -1,7 +1,7 @@
 url: https://customer.sitetrax.io
-status: up
-code: 200
-responseTime: 412
-lastUpdated: 2026-05-26T00:02:02.677Z
+status: down
+code: 504
+responseTime: 10124
+lastUpdated: 2026-05-26T16:12:57.811Z
 startTime: 2024-10-04T06:04:33.832Z
 generator: Upptime <https://github.com/upptime/upptime>
