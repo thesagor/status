@@ -65,17 +65,17 @@
     "url": "https://netarus.com",
     "icon": "https://icons.duckduckgo.com/ip3/netarus.com.ico",
     "slug": "netarus",
-    "status": "down",
-    "uptime": "94.75%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.46%",
-    "uptimeYear": "90.33%",
+    "status": "up",
+    "uptime": "94.74%",
+    "uptimeDay": "96.23%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "90.32%",
     "time": 391,
-    "timeDay": 179,
-    "timeWeek": 300,
-    "timeMonth": 327,
-    "timeYear": 405,
+    "timeDay": 207,
+    "timeWeek": 296,
+    "timeMonth": 325,
+    "timeYear": 404,
     "dailyMinutesDown": {
       "2026-03-07": 125,
       "2026-03-06": 17,
@@ -122,7 +122,7 @@
       "2026-06-14": 205,
       "2026-07-15": 147,
       "2026-07-27": 91,
-      "2026-08-07": 0
+      "2026-08-07": 54
     }
   },
   {
