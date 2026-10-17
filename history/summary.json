@@ -313,17 +313,17 @@
     "url": "https://gorurhaat.com",
     "icon": "https://icons.duckduckgo.com/ip3/gorurhaat.com.ico",
     "slug": "gorurhaat",
-    "status": "up",
+    "status": "down",
     "uptime": "79.63%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "61.35%",
     "time": 817,
-    "timeDay": 1019,
-    "timeWeek": 693,
-    "timeMonth": 824,
-    "timeYear": 893,
+    "timeDay": 557,
+    "timeWeek": 618,
+    "timeMonth": 800,
+    "timeYear": 892,
     "dailyMinutesDown": {
       "2025-10-20": 18,
       "2025-10-23": 22,
@@ -507,7 +507,8 @@
       "2026-05-21": 90,
       "2026-06-04": 630,
       "2026-06-03": 833,
-      "2026-08-26": 83
+      "2026-08-26": 83,
+      "2026-10-17": 0
     }
   }
 ]
