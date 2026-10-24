@@ -68,7 +68,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/netarus.com.ico",
     "slug": "netarus",
     "status": "up",
-    "uptime": "95.27%",
+    "uptime": "95.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -313,17 +313,17 @@
     "url": "https://gorurhaat.com",
     "icon": "https://icons.duckduckgo.com/ip3/gorurhaat.com.ico",
     "slug": "gorurhaat",
-    "status": "up",
-    "uptime": "79.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.42%",
-    "uptimeMonth": "99.41%",
+    "status": "down",
+    "uptime": "79.81%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.40%",
     "uptimeYear": "61.31%",
-    "time": 817,
-    "timeDay": 723,
-    "timeWeek": 541,
-    "timeMonth": 730,
-    "timeYear": 914,
+    "time": 816,
+    "timeDay": 439,
+    "timeWeek": 569,
+    "timeMonth": 712,
+    "timeYear": 915,
     "dailyMinutesDown": {
       "2025-10-29": 37,
       "2025-10-31": 30,
@@ -506,7 +506,8 @@
       "2026-06-04": 630,
       "2026-06-03": 833,
       "2026-08-26": 83,
-      "2026-10-17": 261
+      "2026-10-17": 261,
+      "2026-10-24": 1
     }
   }
 ]
